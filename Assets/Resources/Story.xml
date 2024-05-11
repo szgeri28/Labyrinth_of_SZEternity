@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<story>
+	
+	<title>Labyrinth of SZEternity</title>
+	<introduction>...</introduction>
+	
+	<normalmission>
+		<Ndescription>Gyűjts össze 12 kreditet és keresd meg a kiutat!</Ndescription>
+	</normalmission>
+	
+	<finalmission>
+		<Fdescription>Foglalj helyet és kezd meg a vizsgát!</Fdescription>
+	</finalmission>
+	
+	<dialog1>1. Az NT ütemezője a kernel módban, egy darab ütemező modulban található.</dialog1>
+	<answer1>false</answer1>		
+	
+	<dialog2>2. Egy folyamathoz több IOCB is tartozhat.</dialog2>
+	<answer2>false</answer2>
+
+	<dialog3>3. A Windows NT ha lehetősége van rá, szálütemezést használ.</dialog3>
+	<answer3>false</answer3>
+
+	<dialog4>4. BigDatat nem érdemes excelben kezelni.</dialog4>
+	<answer4>true</answer4>
+	
+	<dialog5>5. OLTP model relációs adatbázist használ.</dialog5>
+	<answer5>true</answer5>
+
+	<dialog6>6. Jó ez a tantárgy.</dialog6>
+	<answer6>true</answer6>
+	
+	<dialog7>7. A Szimplex módszer képes választ adni egy optimalizálási feladatra lineáris programozás során.</dialog7>
+	<answer7>true</answer7>
+
+	<dialog8>8. Az X^2 deriváltja 2X.</dialog8>
+	<answer8>true</answer8>
+
+	<dialog9>9. A for ciklus egy előltesztelős ciklus.</dialog9>
+	<answer9>false</answer9>
+	
+	<dialog10>10. A Dijkstra-algoritmus megkeresni a legrövidebb utakat egy adott csúcspontból kiindulva.</dialog10>
+	<answer10>true</answer10>
+	
+</story>
